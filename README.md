@@ -65,4 +65,4 @@ Instructions for doing this on a 64-bit linux machine are now provided:
 6. `./example` (run the project.  If it cannot be run, try first changing permissions using `chmod +x example`)
 
 # Questions:
-If you have any follow-up questions related to SPICE, or any questions/issues related to any of these tutorials, please don't hesitate to reach out to Chris Gnam:  crgnam@buffalo.edu 
+If you have any follow-up questions related to SPICE, or any questions/issues related to any of these tutorials, please don't hesitate to reach out to Grant Hecht (granthec@buffalo.edu)
