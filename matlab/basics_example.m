@@ -4,7 +4,8 @@ matlabrc; clc; close all;
 % https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/
 
 % Adds MICE to the MATLAB search path
-addpath(genpath('../../MATLAB/mice'))
+% NOTE: Make sure you update for your setup
+addpath(genpath('/Users/granthec/Documents/MATLAB/mice'))
 
 % Clear the kernel pool (specific to MATLAB):
 % https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/MATLAB/mice/cspice_kclear.html
